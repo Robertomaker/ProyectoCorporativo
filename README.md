@@ -37,7 +37,7 @@ Instalacion https://github.com/Robertomaker/ProyectoCorporativo/wiki/instalacion
 
 Configuracion https://github.com/Robertomaker/ProyectoCorporativo/wiki/configuracion
 
-Uso 
+Uso https://github.com/Robertomaker/ProyectoCorporativo/wiki/uso
 
 Contribucion 
 
