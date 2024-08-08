@@ -31,7 +31,7 @@ Tabla de contenido:
 
 Introduccion https://github.com/Robertomaker/ProyectoCorporativo/wiki/introduccion
 
-Requerimientos 
+Requerimientos https://github.com/Robertomaker/ProyectoCorporativo/wiki/requerimientos
 
 Instalacion 
 
