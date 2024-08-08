@@ -29,7 +29,7 @@ alta, entre otros.
 
 Tabla de contenido:
 
-Introduccion 
+Introduccion https://github.com/Robertomaker/ProyectoCorporativo/wiki/introduccion
 
 Requerimientos 
 
