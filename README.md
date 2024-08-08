@@ -39,7 +39,7 @@ Configuracion https://github.com/Robertomaker/ProyectoCorporativo/wiki/configura
 
 Uso https://github.com/Robertomaker/ProyectoCorporativo/wiki/uso
 
-Contribucion 
+Contribucion https://github.com/Robertomaker/ProyectoCorporativo/wiki/contribucion
 
 Roadmap 
 
