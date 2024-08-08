@@ -35,7 +35,7 @@ Requerimientos https://github.com/Robertomaker/ProyectoCorporativo/wiki/requerim
 
 Instalacion https://github.com/Robertomaker/ProyectoCorporativo/wiki/instalacion
 
-Configuracion 
+Configuracion https://github.com/Robertomaker/ProyectoCorporativo/wiki/configuracion
 
 Uso 
 
